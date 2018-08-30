@@ -1,0 +1,5 @@
+int64 x
+int64 y
+std_msgs/String label
+---
+int64 z
